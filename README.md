@@ -11,7 +11,6 @@ English (short): Interactive tool to calibrate axes, pick curve points, and expo
 - 多 IGV 批量采点：按 IGV 列表循环取点
 - 自动插值对齐：输出统一采样点数
 - 可选保存路径：导出 CSV
-- GUI 友好：欢迎界面、清晰步骤提示、可后退/中止
 
 ## 环境依赖
 - Windows + Anaconda/Miniconda
